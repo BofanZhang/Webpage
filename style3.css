@@ -1,0 +1,35 @@
+body {
+  background-image: url(Images/Background.jpg);
+  background-size: 1500px;
+  background-color: white;
+}
+.centre {
+  text-align: center;
+}
+.list {
+  text-align: center;
+}
+a:hover {
+  color: white;
+}
+.ok {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+main {
+  background-color: white;
+  opacity: 0.85;
+  border: 2px black solid;
+  border-radius: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.margins {
+  margin-left: 50px;
+}
+.red {
+  border: 2px solid red;
+}
+.margin2 {
+  margin-left: 25px;
+}

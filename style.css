@@ -1,0 +1,19 @@
+.list {
+  text-align: center;
+  color: white;
+  word-spacing: 25px;
+}
+body {
+  background-image: url(Images/Background.jpg);
+  background-size: 1500px;
+  text-align: center;
+  color: white;
+}
+a:hover {
+  color: white;
+  text-decoration: underline white;
+}
+
+.main {
+  margin-top: 250px;
+}

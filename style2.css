@@ -1,0 +1,43 @@
+body {
+  background-image: url(Images/Background.jpg);
+  background-size: cover;
+}
+main {
+  text-align: center;
+  border: 2px solid black;
+  margin: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 25px;
+}
+.main2 {
+  border: 2px solid;
+  border-radius: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.list2 {
+  text-align: center;
+}
+a:hover {
+  color: black;
+}
+a {
+  color: white;
+}
+.head {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.bold {
+  text-decoration: underline;
+  color: black;
+}
+.white {
+  color: white;
+  margin-left: 200px;
+  margin-right: 200px;
+}
